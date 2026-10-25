@@ -68,3 +68,9 @@ python main.py --architecture react --model real
 ```
 
 Không hard-code hoặc commit API key. Model thật vẫn dùng mock tools và cùng harness; các kết quả evaluation mặc định chỉ được đo với fake model.
+
+---
+
+## Author profile and links
+
+For more projects and background, see [my GitHub profile](https://github.com/longzu-ComputerScience) and [LinkedIn](https://www.linkedin.com/in/vuz-long-7b4744393/). This profile link identifies my account and does not imply sole authorship of a group project.
